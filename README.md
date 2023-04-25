@@ -12,4 +12,7 @@ Run these commands:
 `npm install`
 
 `node app.js`
+step-1:
+1.create EC2 server for jenkins
+
 
